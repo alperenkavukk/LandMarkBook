@@ -16,6 +16,7 @@
 		A2A5DFCF288D9A490068E8FC /* landmarkBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A5DFCE288D9A490068E8FC /* landmarkBookTests.swift */; };
 		A2A5DFD9288D9A490068E8FC /* landmarkBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A5DFD8288D9A490068E8FC /* landmarkBookUITests.swift */; };
 		A2A5DFDB288D9A490068E8FC /* landmarkBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A5DFDA288D9A490068E8FC /* landmarkBookUITestsLaunchTests.swift */; };
+		A2A5DFF2288F189B0068E8FC /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A5DFF1288F189B0068E8FC /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A2A5DFD4288D9A490068E8FC /* landmarkBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = landmarkBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2A5DFD8288D9A490068E8FC /* landmarkBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = landmarkBookUITests.swift; sourceTree = "<group>"; };
 		A2A5DFDA288D9A490068E8FC /* landmarkBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = landmarkBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A2A5DFF1288F189B0068E8FC /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		A2A5DFAB288D9A480068E8FC = {
 			isa = PBXGroup;
 			children = (
+				A2A5DFF1288F189B0068E8FC /* secondViewController.swift */,
 				A2A5DFB6288D9A480068E8FC /* landmarkBook */,
 				A2A5DFCD288D9A490068E8FC /* landmarkBookTests */,
 				A2A5DFD7288D9A490068E8FC /* landmarkBookUITests */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2A5DFF2288F189B0068E8FC /* secondViewController.swift in Sources */,
 				A2A5DFBC288D9A480068E8FC /* ViewController.swift in Sources */,
 				A2A5DFB8288D9A480068E8FC /* AppDelegate.swift in Sources */,
 				A2A5DFBA288D9A480068E8FC /* SceneDelegate.swift in Sources */,
